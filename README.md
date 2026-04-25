@@ -66,7 +66,5 @@ Services Overview: • Explore all the available services in AWS platform.
 
 <img width="1920" height="1080" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/8fc81a9c-765d-4da9-a709-4dd92a62b741" />
 
-
-
 ## Result:
 Thus an account was created in AWS platform and all the services were explored.
